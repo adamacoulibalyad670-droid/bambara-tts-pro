@@ -1,6 +1,7 @@
 streamlit
 transformers
-torchaudio
-soundfile
 torch
+soundfile
+torchaudio
 numpy
+accelerate
