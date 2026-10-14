@@ -4,3 +4,4 @@ torchaudio
 soundfile
 torch
 numpy
+TTS
